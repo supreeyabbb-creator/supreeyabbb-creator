@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey there 👋
+I'm Supreeya, a Supply Chain & Data Analytics professional based in Germany, blending 10 years of automotive manufacturing experience with modern data science.
+I mostly work on supply chain optimization, inventory tracking, and data automation — using Python, SQL, Tableau, and Advanced Excel.
+Currently, I'm pursuing a Master's in Business Analytics & Operations Research and building data-driven dashboards to improve operational efficiency.
 
-<!--
-**supreeyabbb-creator/supreeyabbb-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Tools & Tech
+* **Data & Analytics:** Python, SQL, Tableau, Advanced Excel
+* **Supply Chain & Enterprise:** SAP, Process Optimization, Demand Planning
+* **Productivity & Design:** Git, Markdown
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### A Bit About Me
+* 🏃‍♀️ Marathon runner (Berlin Marathon finisher)
+* 📚 Into reading self-development books (Jonathan Livingston Seagull is a favorite)
+* 🎯 Passionate about using data to simplify complex operations and make better decisions
