@@ -1,8 +1,12 @@
-### Hey there 👋
-I'm Supreeya, a Supply Chain & Data Analytics professional based in Germany, blending 10 years of automotive manufacturing experience with modern data science.
-I mostly work on supply chain optimization, inventory tracking, and data automation — using Python, SQL, Tableau, and Advanced Excel.
-Currently, I'm pursuing a Master's in Business Analytics & Operations Research and building data-driven dashboards to improve operational efficiency.
+# 🇹🇭 👩 Supreeya
 
+**`Supply Chain & Data Analytics Professional`**
+
+## About Me
+
+* I blend 10 years of automotive manufacturing experience with modern data science.
+* I mostly work on supply chain optimization, inventory tracking, and data automation — using Python, SQL, Tableau, and Advanced Excel.
+* Currently pursuing a Master's in Business Analytics & Operations Research and building data-driven dashboards to improve operational efficiency.
 ---
 
 ## Skill stack
