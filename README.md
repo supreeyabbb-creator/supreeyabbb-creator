@@ -5,10 +5,11 @@ Currently, I'm pursuing a Master's in Business Analytics & Operations Research a
 
 ---
 
-### Tools & Tech
-* **Data & Analytics:** Python, SQL, Tableau, Advanced Excel
-* **Supply Chain & Enterprise:** SAP, Process Optimization, Demand Planning
-* **Productivity & Design:** Git, Markdown
+## Skill stack
+[![My Skills](https://skillicons.dev/icons?i=python,git,github&theme=light)](https://skillicons.dev)
+
+* **Data & Analytics:** 📊 Advanced Tableau, Advanced Excel & Power BI, SQL, Python
+* **Supply Chain & Enterprise:** 🏭 SAP, Process Optimization, Demand Planning
 
 ---
 
