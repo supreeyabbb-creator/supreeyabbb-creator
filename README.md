@@ -5,8 +5,8 @@
 ## About Me
 
 * I blend 10 years of automotive manufacturing experience with modern data science.
-* I mostly work on supply chain optimization, inventory tracking, and data automation — using Python, SQL, Tableau, and Advanced Excel.
-* Currently pursuing a Master's in Business Analytics & Operations Research and building data-driven dashboards to improve operational efficiency.
+* I mostly work on supply chain optimization, and data automation — using Python, SQL, Tableau, and Advanced Excel.
+* Currently building data-driven dashboards to improve operational efficiency.
 ---
 
 ## Skill stack
